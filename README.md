@@ -1,2 +1,2 @@
-# programming_tasks
-Tasks for learning any programming language
+# Programming tasks
+[Tasks for learning any programming language](https://clck.ru/LmzfT)

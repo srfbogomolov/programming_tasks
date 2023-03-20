@@ -1,1 +1,1 @@
-# Display the text "Silence is golden" on the screen.
+Display the text "Silence is golden" on the screen.

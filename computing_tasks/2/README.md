@@ -1,0 +1,1 @@
+Display the current name of the day of the week, the name of the month and your name. Each word should be in a separate line.

@@ -1,0 +1,1 @@
+Display a rectangle filled with the letters A. The number of rows in the rectangle is 5, the number of columns is 8.

@@ -1,0 +1,1 @@
+Display five lines of zeros, and the number of zeros in each line is equal to the line number.

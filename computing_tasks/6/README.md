@@ -1,0 +1,1 @@
+Display the result of the calculation 1+2-4.

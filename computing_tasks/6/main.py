@@ -1,6 +1,5 @@
 def main():
-    for i in range(1, 6):
-        print("0" * i)
+    print(1 + 2 - 4)
 
 
 if __name__ == "__main__":

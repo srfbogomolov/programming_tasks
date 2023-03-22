@@ -1,0 +1,1 @@
+Display the letter "W" from the characters "*" (asterisk).
